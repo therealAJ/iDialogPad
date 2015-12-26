@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "+[ParseUTF8 GetLabelOffset:line:]:ParseUTF8.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "labels_table">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "getustr:getcmdfile.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "usertext">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "cLoadCmdFile:dp_vm.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "mopt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[IDialogPadAppDelegate application:didFinishLaunchingWithOptions:]:AppDelegate.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "str">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "setTimer:dp_vm.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "timer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainView prepare]:MainView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "params">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainView startDialog:]:MainView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "timer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainView stopDialog]:MainView.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "timer">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DP_VM Export:]:dp_vm.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "usertext_array">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "loadfile:getcmdfile.c">
+         <PersistentStrings>
+            <PersistentString
+               value = "textp">
+            </PersistentString>
+            <PersistentString
+               value = "usertext">
+            </PersistentString>
+            <PersistentString
+               value = "utext">
+            </PersistentString>
+            <PersistentString
+               value = "mopt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

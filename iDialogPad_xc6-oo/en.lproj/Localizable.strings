@@ -1,0 +1,35 @@
+"Helptext1" = "Please recharge your electronic diary every night.
+After each survey press the upper left on-off button, to set the diary to sleep.
+Never switch the electronic diary off by pressing the on-off button for a long time and switching the slider to OFF.
+Thank you very much for your entries in the electronic diary!";
+"EndInput" = "end input";
+"Gender" = "Gender";
+"GenderMale" = "male";
+"GenderFemale" = "female";
+"UserAge" = "Age";
+"UserHelp" = "iDialogPad hints";
+"Achtung" = "Attention!";
+"ECancel" = "Export canceled!";
+"ESent" = "Export was sent!";
+"ExpError" = "File could not be sent!";
+"ExpFrom" = "iDialogPad export from %@.";
+"ExpFirst" = "You must export first!";
+"Error" = "Error";
+"ResetOutput" = "Do you really want to delete output?";
+"FilesLoaded" = "%d files loaded";
+"NoOutput" = "No output available!";
+"ExpOutput" = "Export output?";
+"Cantkill" = "Activ QDF file can not be deleted!";
+"WantKill" = "Do you really want to delete the file: %@?";
+"AlreadyReset" = "Output ist already reset!";
+"WaitA" = "Please wait for automatic alarm!";
+"NoCamera" = "No camera present!";
+"No Microphone" = "No microfone found!";
+"iDialogPad_wants_service" = "iDialogPad requests input!";
+"LabelError" = "Sorted @ Export Label Error!";
+"hours" = "hours";
+"mins" = "mins";
+"day" = "day";
+"number" = "num.";
+"back" = "Back";
+"EExportnomail" = "Export without email";

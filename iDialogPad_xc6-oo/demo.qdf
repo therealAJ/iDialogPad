@@ -1,0 +1,55 @@
+SAN ipod
+* sleep during night 
+SLEEP 22:00-08:00
+* activate every 25-35 minutes
+TIME  25 10
+
+OPT  64+4+2+1
+GOP 128+8
+
+SKIPU :START
+* if auto mode, beep
+BEEP 8
+:START
+
+* input timout 60 secs
+TOUT 60
+* print timeout 3 seconds
+PTOUT 3
+
+PRINT "This Demo shows only a few examples.\rText is displayed until OK or 3 seconds"
+
+PSEL 2
+
+SCALE " 1 2 3 4 5" "not" "very"
+ASK2 "@Q01@This is a 5 step scale with initial value" 
+
+SCALE "-3-2-1 0+1+2+3" "negativ" "positiv"
+PSEL 99
+ASK2 "@Q02@This is a 7 step scale, OK Button appears after first selection" 
+
+SCALE ":not at all:don't know:very much" "" ""
+PSEL 99
+ASK2 "@Q03@3 step scale with text, OK Button appears after first selection" 
+
+PSEL 0
+SCALE " 1 2 3 4 5" "0 %" "100 %"
+ASKA "@Q04@This is an analog scale with initial value" 
+
+PSEL 99
+ASK1 "@Q05#@3 alternatives only 1 selection" 3 "selection 1" "selection 2" "selection 3"
+
+ASKM "@Q06#@3 alternatives 2 selections" 3 2 "selection 1" "selection 2" "selection 3"
+
+INPUT "@Q07@you can input free text here"
+
+TIMS "@Q08@Time or number wheel" 0
+
+PTOUT 1
+PRINT "&\r\rThanks"
+
+END
+
+SE
+
+   

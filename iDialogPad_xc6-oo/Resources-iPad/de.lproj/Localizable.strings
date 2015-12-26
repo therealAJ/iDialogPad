@@ -1,0 +1,11 @@
+"Helptext1" = "Bitte laden Sie den Akku Ihres elektronischen Tagebuches jede Nacht auf.
+Drücken Sie nach einer Eingabe kurz den Aus-Knopf oben links, um das elektronische Tagebuch in den Ruhzustand  zu versetzen.
+Schalten Sie das elektronische Tagebuch niemals durch langes Drücken des Aus-Knopf und Verschieben des Aus-Reglers nach rechts ganz aus.
+Vielen Dank für Ihre Eingaben in das elektronische Tagebuch!";
+"EndInput" = "Eingabe Ende";
+"Gender" = "Geschlecht";
+"GenderMale" = "männlich";
+"GenderFemale" = "weiblich";
+"UserAge" = "Alter";
+"UserHelp" = "DialogPad Hinweise";
+"Achtung" = "Achtung !";

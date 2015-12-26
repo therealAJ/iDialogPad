@@ -1,0 +1,35 @@
+"Helptext1" = "Bitte laden Sie den Akku Ihres elektronischen Tagebuches jede Nacht auf.
+Drücken Sie nach einer Eingabe kurz den Aus-Knopf oben links, um das elektronische Tagebuch in den Ruhzustand  zu versetzen.
+Schalten Sie das elektronische Tagebuch niemals durch langes Drücken des Aus-Knopf und Verschieben des Aus-Reglers nach rechts ganz aus.
+Vielen Dank für Ihre Eingaben in das elektronische Tagebuch!";
+"EndInput" = "Eingabe Ende";
+"Gender" = "Geschlecht";
+"GenderMale" = "männlich";
+"GenderFemale" = "weiblich";
+"UserAge" = "Alter";
+"UserHelp" = "iDialogPad Hinweise";
+"Achtung" = "Achtung!";
+"ECancel" = "Export abgebrochen!";
+"ESent" = "Export wurde gesendet!";
+"ExpError" = "Datei konnte nicht gesendet werden!";
+"ExpFrom" = "iDialogPad Export von %@.";
+"ExpFirst" = "Sie müssen zuerst die bisherige Ausgabe exportieren!";
+"Error" = "Fehler";
+"ResetOutput" = "Wollen Sie wirklich die Ausgabedatei zurücksetzen?";
+"FilesLoaded" = "%d Dateien geladen";
+"NoOutput" = "Kein Output vorhanden!";
+"ExpOutput" = "Ausgabedatei exportieren?";
+"Cantkill" = "Aktive QDF Datei kann nicht gelöscht werden!";
+"WantKill" = "Wollen Sie die Datei: %@ löschen?";
+"AlreadyReset" = "Output ist bereits zurückgesetzt!";
+"WaitA" = "Bitte auf automatischen Alarm warten!";
+"NoCamera" = "Keine Kamera vorhanden!";
+"No Microphone" = "Kein Mikrofon vorhanden!";
+"iDialogPad_wants_service" = "iDialogPad Eingabeaufforderung!";
+"LabelError" = "Sorted @ Export Label Fehler!";
+"hours" = "Std.";
+"mins" = "Min.";
+"day" = "Tag";
+"number" = "Num.";
+"back" = "Zurück";
+"EExportnomail" = "Export ohne email";
