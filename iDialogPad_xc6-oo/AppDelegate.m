@@ -51,9 +51,7 @@ extern unsigned short mopt;
 UIApplication *appl;
 
 
-//char *str;
 
-//- (void)applicationDidFinishLaunching:(UIApplication*)application {
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
 	
 	iap=self;
