@@ -11,7 +11,7 @@
 
 @implementation IDialogPadAppDelegate
 
-static natural_t get_free_memory(void);
+natural_t get_free_memory(void);
 
 BOOL allow_setup,allow_edit,use_unicode,use_internal_server,use_export_button;
 BOOL use_sorted_export,use_export_numbers,use_gps,auto_save;
