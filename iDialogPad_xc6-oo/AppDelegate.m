@@ -17,7 +17,7 @@ BOOL allow_setup,allow_edit,use_unicode,use_internal_server,use_export_button;
 BOOL use_sorted_export,use_export_numbers,use_gps,auto_save;
 
 
-@synthesize window,currSysVer;
+@synthesize window;
 @synthesize rootViewController;
 
 @synthesize soundFileURLRef;
@@ -49,7 +49,7 @@ extern unsigned short mopt;
 #define EXPORT_OUTPUT 8
 
 UIApplication *appl;
-
+double currSysVer;
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {    
@@ -59,7 +59,7 @@ UIApplication *appl;
     
     window.rootViewController = rootViewController;
 	
-    currSysVer=[[[UIDevice currentDevice] systemVersion] copy];
+    currSysVer=[[UIDevice currentDevice] systemVersion].doubleValue;
     
     NSString * version = [[NSBundle mainBundle] objectForInfoDictionaryKey: @"CFBundleShortVersionString"];
 

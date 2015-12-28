@@ -19,6 +19,12 @@ PTOUT 3
 
 PRINT "This Demo shows only a few examples.\rText is displayed until OK or 3 seconds"
 
+*TEST "@agrid1@&affect grid" 0 20 1 "stressed" "highly activ" "excited" "depressed" "sleepy" "relaxed" "unpleasant" "pleasant"
+
+*TEST "@sam2@sam test" 2 30 3 0 0 0
+
+*TEST "@pic3@Bildwahl" 3 30 1 0 9 0
+
 PSEL 2
 
 SCALE " 1 2 3 4 5" "not" "very"
@@ -44,6 +50,8 @@ ASKM "@Q06#@3 alternatives 2 selections" 3 2 "selection 1" "selection 2" "select
 INPUT "@Q07@you can input free text here"
 
 TIMS "@Q08@Time or number wheel" 0
+
+*HISTO "Q01,Q02,Q03" 5 0 0
 
 PTOUT 1
 PRINT "&\r\rThanks"

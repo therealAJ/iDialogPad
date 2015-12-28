@@ -27,7 +27,6 @@
     SystemSoundID	soundFileObject1;
     SystemSoundID	soundFileObject2;
 	AVAudioPlayer *audioPlayer;
-    NSString *currSysVer;
     CFUUIDRef uuidr;
 }
 
@@ -38,7 +37,6 @@
 @property (readonly)	SystemSoundID	soundFileObject;
 @property (readonly)	SystemSoundID	soundFileObject1;
 
-@property (nonatomic, retain) NSString *currSysVer;
 @property (nonatomic, retain) NSString *cmdfilename;
 @property (nonatomic, retain) NSString *vpid_number;
 @property (nonatomic, retain) AVAudioPlayer *audioPlayer;
