@@ -84,6 +84,7 @@ double currSysVer;
 
     if (textValue == nil) {
         [self registerDefaultsFromSettingsBundle];
+        [self getUserSetup];
     }
     else {
         [self getUserSetup];
